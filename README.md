@@ -15,7 +15,7 @@ El tercer hito consiste en el desarrollo backend del proyecto, en donde debes:
     - Se recomienda dividir el servidor en varios módulos para desarrollar la API REST para tener un desarrollo ordenado.
 
 <p align="center">
-  <img src="https://https://github.com/Felipe-M-dev/final-test-back/blob/main/public/01.png?raw=true" alt="image 01"><br>
+  <img src="https://github.com/Felipe-M-dev/final-test-back/blob/main/public/01.png?raw=true" alt="image 01"><br>
 Imagen 1. Módulos</br>
 Fuente: Desafío Latam
 </p>
